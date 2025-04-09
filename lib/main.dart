@@ -33,7 +33,7 @@ class DashBoardScreen extends StatelessWidget {
             height: double.infinity,
             child: Center(
               child: Container(
-                width: 150,
+                width: 155,
                 height: 150,
                 decoration: BoxDecoration(
                   color: Colors.black,
